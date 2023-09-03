@@ -1,0 +1,9 @@
+{
+	"name": "df-databricks-tsantos",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3456d24d-c720-4d8d-b8e8-2e1c34de56c2",
+		"tenantId": "6dbb3f88-7520-4b16-a54d-1470baea81a4"
+	}
+}
